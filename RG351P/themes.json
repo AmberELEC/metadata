@@ -1,6 +1,15 @@
 {
     "data": [
         {
+            "theme": "Art-Book-Water",
+            "author": "navy1978",
+            "theme_url": "https://github.com/navy1978/es-theme-art-book-water",
+            "last_update": "2026-09-24",
+            "up_to_date": "1",
+            "size": "3",
+            "screenshot": "themes/Art-Book-Water.png"
+        },
+        {
             "theme": "Airen",
             "author": "Airen",
             "theme_url": "https://github.com/anthonycaccese/es-theme-airen",
